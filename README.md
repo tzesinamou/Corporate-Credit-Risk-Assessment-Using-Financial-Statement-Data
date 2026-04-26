@@ -9,7 +9,7 @@ This project analyzes credit risk using financial statement data. Due to the vol
 * **Company Folders:** Organized data for each company, including BalanceSheet.csv, CashFlow.csv, and IncomeStatement.csv.
 * **Python Scripts:** Code for Data Cleaning, Regression Analysis (`CreditRiskAssessment.py`), and the interactive dashboard (`app.py`).
 * **Processed Data:** The `FINAL_OUTPUT.xlsx` file containing calculated ratios and risk scores.
-* **Documentation:** 7CS997 Final Thesis Corporate Credit Risk Assessment.docx - Full project report including methodology and findings.
+* **Documentation:** 7CS997 Final Thesis Corporate Credit Risk Assessment Final Thesis.docx - Full project report including methodology and findings.
 
 ---
 
